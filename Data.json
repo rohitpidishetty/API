@@ -1,0 +1,298 @@
+{
+    "Data": [
+        {
+            "id": 1,
+            "name": "science fiction",
+            "image": "https://i.pinimg.com/originals/33/97/5c/33975c488ff9881bc79dd274e186f5a9.jpg",
+            "description": "Science fiction (sometimes shortened to sci-fi or SF) is a genre of speculative fiction that typically deals with imaginative and futuristic concepts such as advanced science and technology, space exploration, time travel, parallel universes, and extraterrestrial life. It has been called the literature of ideas, and often explores the potential consequences of scientific, social, and technological innovations Science fiction, whose roots go back to ancient times, is related to fantasy, horror, and superhero fiction, and contains many subgenres. Its exact definition has long been disputed among authors, critics, scholars, and readers.Science fiction literature, film, television, and other media have become popular and influential over much of the world. Besides providing entertainment, it can also criticize present-day society, and is often said to inspire a sense of wonder",
+            "link": "https://en.wikipedia.org/wiki/Science_fiction"
+        },
+        {
+            "id": 2,
+            "name": "star trek",
+            "image": "https://www.infinityproductionsllc.com/ebay/store/prints/sci-fi-fantasy_movie_images/sci-fi-fantasy_0163_ebay_listing.jpg",
+            "description": "Star Trek is an American media franchise originating from the 1960s science fiction television series Star Trek, created by Gene Roddenberry. That series, now often known as The Original Series, debuted on September 8, 1966, and aired for three seasons on NBC. It followed the voyages of the starship USS Enterprise, a space exploration vessel built by the United Federation of Planets in the 23rd century, on a mission to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before. In creating Star Trek, Roddenberry was inspired by C. S. Forester's Horatio Hornblower series of novels, Jonathan Swift's Gulliver's Travels, and television westerns such as Wagon Train.The Star Trek canon includes the Original Series, nine spin-off television series, and a film franchise; further adaptations also exist in several media. After the conclusion of the Original Series, the adventures of its characters continued in the 22-episode Star Trek: The Animated Series and six feature films. A television revival beginning in the 1980s saw three sequel series and a prequel: Star Trek: The Next Generation, following the crew of a new starship Enterprise a century after the original series; Star Trek: Deep Space Nine and Star Trek: Voyager, set in the same era as the Next Generation; and Enterprise, set before the original series in the early days of human interstellar travel. The adventures of the Next Generation crew continued in four additional feature films. In 2009, the film franchise underwent a reboot, creating an alternate continuity known as the Kelvin timeline; three films have been set in this continuity. The newest Star Trek television revival, beginning in 2017, includes the series Star Trek: Discovery, Picard, Short Treks, and Lower Decks, streaming exclusively on digital platforms. At least two additional television series are in development: Star Trek: Strange New Worlds[1][2] and Star Trek: Prodigy",
+            "link": "https://en.wikipedia.org/wiki/Star_Trek"
+        },
+        {
+            "id": 3,
+            "name": "tron",
+            "image": "https://i.pinimg.com/originals/a5/c0/ea/a5c0ea5a70cfdb443adb035b807c4635.jpg",
+            "description": "Tron (stylized as TRON) is a 1982 American science fiction action-adventure film written and directed by Steven Lisberger from a story by Lisberger and Bonnie MacBird. The film stars Jeff Bridges, Bruce Boxleitner, David Warner, Cindy Morgan, and Barnard Hughes. Bridges plays Kevin Flynn, a computer programmer who is transported inside the software world of a mainframe computer where he interacts with programs in his attempt to escape.The development of Tron began in 1976, when Lisberger became intrigued with the early video game Pong. He and producer Donald Kushner set up an animation studio to develop Tron with the intention of making it an animated film. Indeed, to promote the studio itself, Lisberger and his team created a 30-second animation featuring the first appearance of the title character. Eventually, Lisberger decided to include live-action elements with both backlit and computer animation for the actual feature-length film. Various film studios had rejected the storyboards for the film before Walt Disney Productions agreed to finance and distribute Tron. There, backlit animation was finally combined with the computer animation and live action.",
+            "link": "https://en.wikipedia.org/wiki/Tron:_Legacy"
+        },
+        {
+            "id": 4,
+            "name": "avatar",
+            "image": "https://www.clandestinecritic.co.uk/wp-content/uploads/2010/04/Avatar-movie-poster.jpg",
+            "description": "Avatar (marketed as James Cameron's Avatar) is a 2009 American[8][9] epic science fiction film directed, written, produced, and co-edited by James Cameron and starring Sam Worthington, Zoe Saldana, Stephen Lang, Michelle Rodriguez, and Sigourney Weaver. The film is set in the mid-22nd century when humans are colonizing Pandora, a lush habitable moon of a gas giant in the Alpha Centauri star system, in order to mine the mineral unobtanium,[10][11] a room-temperature superconductor.[12] The expansion of the mining colony threatens the continued existence of a local tribe of Na'vi – a humanoid species indigenous to Pandora. The film's title refers to a genetically engineered Na'vi body operated from the brain of a remotely located human that is used to interact with the natives of Pandora.",
+            "link": "https://en.wikipedia.org/wiki/Avatar_(2009_film)"
+        },
+        {
+            "id": 5,
+            "name": "skyline",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8NeQoLm4oa4R9s-RGifwl946phu2o7IkRew&usqp=CAU",
+            "description": "Skyline is a 2010 American science fiction disaster film directed by Greg and Colin Strause.[4] It stars Eric Balfour, Scottie Thompson, Brittany Daniel, Crystal Reed, David Zayas, and Donald Faison as a group of Los Angeles residents who witness an alien invasion while in a condominium.The film was released on November 12, 2010, in the United States. Despite negative reviews from critics, Skyline was a box office success, grossing $68 million worldwide against its $10–20 million budget. The Strause brothers produced, and co-creator Liam O'Donnell wrote and direct, a sequel entitled Beyond Skyline, which was released in 2017.[6] The third and last film in the trilogy, Skylines—also produced by the Strause brothers and written and directed by O'Donnell—was released in December 2020.",
+            "link": "https://en.wikipedia.org/wiki/Skyline_(2010_film)"
+        },
+        {
+            "id": 6,
+            "name": "interstellar",
+            "image": "https://i.pinimg.com/originals/74/99/73/7499739c82325456dc82cbabed130ca7.jpg",
+            "description": "Interstellar is a 2014 American-British epic science fiction film directed and produced by Christopher Nolan. It stars Matthew McConaughey, Anne Hathaway, Jessica Chastain, Bill Irwin, Ellen Burstyn, John Lithgow, Michael Caine, and Matt Damon. Set in a dystopian future where humanity is struggling to survive, the film follows a group of astronauts who travel through a wormhole near Saturn in search of a new home for mankind.Brothers Christopher and Jonathan Nolan wrote the screenplay, which had its origins in a script Jonathan developed in 2007. Christopher produced Interstellar with his wife, Emma Thomas, through their production company Syncopy, and with Lynda Obst through Lynda Obst Productions. Caltech theoretical physicist and 2017 Nobel laureate in Physics[4] Kip Thorne was an executive producer, acted as scientific consultant, and wrote a tie-in book, The Science of Interstellar. Paramount Pictures, Warner Bros., and Legendary Pictures co-financed the film. Cinematographer Hoyte van Hoytema shot it on 35 mm in the Panavision anamorphic format and IMAX 70 mm. Principal photography began in late 2013 and took place in Alberta (Canada), Iceland and Los Angeles. Interstellar uses extensive practical and miniature effects and the company Double Negative created additional digital effects.",
+            "link": "https://en.wikipedia.org/wiki/Interstellar_(film)"
+        },
+        {
+            "id": 7,
+            "name": "the prototype",
+            "image": "https://www.scifi-movies.com/images/contenu/data/0003949/affiche-the-prototype-2015-1.jpg",
+            "description": "Set in a post-apocalyptic Los Angeles of 2057, Hawkins Coselow, a crippled soldier, along with his ex-lover, Chandra Kerkorian, share vivid psychosexual dreams. Dr. Alexis Zalazny is working on a cybernetic program that will help Coselow walk again. The program sort of works, but everything goes deadly wrong when Coselow becomes a killing machine that can interface with any computer. He ends up killing several people belonging to a resistance movement.The rebels are led by Omegas, cybernetically altered humans, battled government forces in the crime-ridden streets. In time, the Omegas reprogrammed themselves and carried out their own deadly agenda. In the end, the Omegas were destroyed, except one - implanted in a child, Chandra Kerkorian. Now grown, she is ready to lead the rebellion again.",
+            "link": "https://en.wikipedia.org/wiki/Prototype_(1992_film)"
+        },
+        {
+            "id": 8,
+            "name": "oblivion",
+            "image": "https://i.pinimg.com/originals/27/67/56/276756c78e41f19d7e2c95bba12a8e2d.jpg",
+            "description": "Oblivion is a 2013 American post-apocalyptic action-adventure film co-produced and directed by Joseph Kosinski, and produced by Peter Chernin with screenplay by Karl Gajdusek and Michael deBruyn, starring Tom Cruise in the main role alongside Olga Kurylenko, Andrea Riseborough, Morgan Freeman and Nikolaj Coster-Waldau in supporting roles. Oblivion, based on Kosinski's unpublished graphic novel of the same name,[5][6][7] pays homage to 1970s science fiction films.Oblivion takes place in 2077, on an Earth devastated by war with extraterrestrials that has caused humanity to relocate itself to Titan. The film follows the story of Jack Harper, a technician who has been sent back to Earth to service drones used in the fight against remaining extraterrestrials (scavengers). After witnessing a spacecraft crash, from which he is able to rescue a survivor, Harper is captured by scavengers and fights against a new and evolving alien threat.Oblivion was released in IMAX by Universal Pictures on April 19, 2013[9] and held its world premiere in Buenos Aires on March 26, 2013. The film grossed $286 million worldwide, on a production budget of $120 million.",
+            "link": "https://en.wikipedia.org/wiki/Oblivion_(2013_film)"
+        },
+        {
+            "id": 9,
+            "name": "mars",
+            "image": "https://i.pinimg.com/originals/69/9f/7e/699f7e9f669d2620b9fe97afd606223f.jpg",
+            "description": "The Martian is a 2015 science fiction film directed by Ridley Scott and starring Matt Damon. The Martian, a 2011 novel by Andy Weir, served as the screenplay adapted by Drew Goddard. The film depicts an astronaut's (Matt Damon) lone struggle to survive on Mars after being left behind, and efforts to rescue him and bring him home to Earth. It also stars Jessica Chastain, Jeff Daniels, Kristen Wiig, Chiwetel Ejiofor, Sean Bean, Michael Peña, Kate Mara, Sebastian Stan, Aksel Hennie, Mackenzie Davis, Donald Glover, and Benedict Wong.",
+            "link": "https://en.wikipedia.org/wiki/The_Martian_(film)"
+        },
+        {
+            "id": 10,
+            "name": "alien outpost",
+            "image": "https://www.outerplaces.com/images/user_upload/alien%20outpost.jpg",
+            "description": "Alien Outpost (formerly known as Outpost 37)[1] is a 2014 science fiction film directed by Jabbar Raisani and starring Adrian Paul. Reiley McClendon, and Rick Ravanello. The film follows a documentary crew sent to record the daily lives of the soldiers of Outpost 37, 12 years after the initial alien invasion.",
+            "link": "https://en.wikipedia.org/wiki/Alien_Outpost"
+        },
+        {
+            "id": 11,
+            "name": "inception",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/7106uLYY2LL._AC_SL1111_.jpg",
+            "description": "Inception is a 2010 science fiction action film[4][5][6] written and directed by Christopher Nolan, who also produced the film with his wife, Emma Thomas. The film stars Leonardo DiCaprio as a professional thief who steals information by infiltrating the subconscious of his targets. He is offered a chance to have his criminal history erased as payment for the implantation of another person's idea into a target's subconscious.[7] The ensemble cast includes Ken Watanabe, Joseph Gordon-Levitt, Marion Cotillard, Elliot Page,[a] Tom Hardy, Dileep Rao, Cillian Murphy, Tom Berenger, and Michael Caine.After the 2002 completion of Insomnia, Nolan presented to Warner Bros. a written 80-page treatment for a horror film envisioning dream stealers,based on lucid dreaming.[8] Deciding he needed more experience before tackling a production of this magnitude and complexity, Nolan shelved the project and instead worked on 2005's Batman Begins, 2006's The Prestige, and The Dark Knight in 2008.[9] The treatment was revised over 6 months and was purchased by Warner in February 2009.[10] Inception was filmed in six countries, beginning in Tokyo on June 19 and ending in Canada on November 22.[11] Its official budget was $160 million, split between Warner Bros. and Legendary.[12] Nolan's reputation and success with The Dark Knight helped secure the film's US$100 million in advertising expenditure.",
+            "link": "https://en.wikipedia.org/wiki/Inception"
+        },
+        {
+            "id": 12,
+            "name": "arrival",
+            "image": "https://www.indiewire.com/wp-content/uploads/2017/09/arrival-2016.jpg?w=640",
+            "description": "Arrival is a 2016 American science fiction film directed by Denis Villeneuve and written by Eric Heisserer. Based on the 1998 short story Story of Your Life by Ted Chiang, it stars Amy Adams, Jeremy Renner, and Forest Whitaker. The film follows a linguist enlisted by the United States Army to discover how to communicate with extraterrestrial aliens who have arrived on Earth, before tensions lead to war. The film had its world premiere at the Venice Film Festival on September 1, 2016, and was released in the United States and Canada by Paramount Pictures on November 11, 2016. It grossed $203 million worldwide and received praise for Adams's performance, Villeneuve's direction, and its exploration of communication with extraterrestrial intelligence. Considered one of the best films of 2016, Arrival appeared on numerous critics' year-end lists and was selected by the American Film Institute as one of ten Movies of the Year",
+            "link": "https://en.wikipedia.org/wiki/Arrival_(film)"
+        },
+        {
+            "id": 13,
+            "name": "martian",
+            "image": "https://i.imgur.com/VqPgljS.jpg",
+            "description": "The Martian is a 2015 science fiction film directed by Ridley Scott and starring Matt Damon. The Martian, a 2011 novel by Andy Weir, served as the screenplay adapted by Drew Goddard. The film depicts an astronaut's (Matt Damon) lone struggle to survive on Mars after being left behind, and efforts to rescue him and bring him home to Earth. It also stars Jessica Chastain, Jeff Daniels, Kristen Wiig, Chiwetel Ejiofor, Sean Bean, Michael Peña, Kate Mara, Sebastian Stan, Aksel Hennie, Mackenzie Davis, Donald Glover, and Benedict Wong.    Produced through 20th Century Fox, the film is a co-production of the United Kingdom and the United States.[2] Producer Simon Kinberg began developing the film after Fox optioned the novel in March 2013, which Drew Goddard adapted into a screenplay and was initially attached to direct, but the film did not move forward. Scott replaced Goddard, and with Damon in place as the main character, production was approved. Filming began in November 2014 and lasted approximately seventy days. Twenty sets were built on one of the largest sound stages in the world in Budapest, Hungary. Wadi Rum in Jordan was also used for exterior filming.",
+            "link": "https://en.wikipedia.org/wiki/The_Martian_(film)"
+        },
+        {
+            "id": 14,
+            "name": "robo",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81PIj61ukAL._RI_.jpg",
+            "description": "Enthiran (transl. Robot) is a 2010 Indian Tamil-language science fiction action film written and directed by S. Shankar.[6] It is the first instalment in the Enthiran franchise. The film stars Rajinikanth and Aishwarya Rai Bachchan; Danny Denzongpa, Santhanam and Karunas play supporting roles. The soundtrack album and background score were composed by A. R. Rahman while the dialogues, cinematography, editing and art direction were handled by Madhan Karky, R. Rathnavelu, Anthony and Sabu Cyril respectively.The story revolves around the struggle of a scientist K. Vaseegaran (Rajinikanth) to control his humanoid robot named Chitti (also Rajinikanth), after Chitti's software is upgraded to give it the ability to comprehend and exhibit human emotions. The project backfires when Chitti falls in love with Vaseegaran's girlfriend, Sana (Rai), and is manipulated by Bohra (Denzongpa), a rival scientist, into becoming homicidal.",
+            "link": "https://en.wikipedia.org/wiki/Enthiran"
+        },
+        {
+            "id": 15,
+            "name": "maharshi",
+            "image": "https://moviegalleri.net/wp-content/uploads/2018/08/Mahesh-Babu-Maharshi-Movie-First-Look-Poster-HD-Wallpaper.jpg",
+            "description": "Maharshi (transl. Great sage) is a 2019 Indian Telugu-language action-drama film[11] directed by Vamshi Paidipally and jointly produced by Dil Raju, C. Ashwini Dutt, Prasad V. Potluri, Param V. Potluri, and Kavin Anne through their production companies Sri Venkateswara Creations, Vyjayanthi Movies, and PVP Cinema. The film stars Mahesh Babu, Pooja Hegde, and Allari Naresh while Jagapathi Babu, Prakash Raj, Jayasudha, Meenakshi Dixit, and Ananya play supporting roles. The music was composed by Devi Sri Prasad.The plot follows Rishi (Babu), who becomes the CEO of a US based software company. When his attention is drawn towards the plight of downtrodden farmers by his friend Ravi (Naresh), he sets out to help them.Maharshi was released theatrically on 9 May 2019 and opened to mixed reviews. Although Babu's performance was praised, film was criticized for predictable, slow and lengthy narration received.",
+            "link": "https://en.wikipedia.org/wiki/Maharshi_(2019_film)"
+        },
+        {
+            "id": 16,
+            "name": "majnu",
+            "image": "https://content.tupaki.com//twdata/2018/1118/photos/movies/Diwali%20Special%20Posters%20in%20Upcoming%20Telugu%20Films/normal/Diwali%20Special%20Posters%20in%20Upcoming%20Telugu%20Films_15.jpg",
+            "description": "Mr. Majnu is a 2019 Indian Telugu language romantic comedy-drama film directed by Venky Atluri and produced by B. V. S. N. Prasad under Sri Venkateswara Cine Chitra.[3] The film features Akhil Akkineni and Nidhhi Agerwal in lead roles.",
+            "link": "https://en.wikipedia.org/wiki/Mr._Majnu"
+        },
+        {
+            "id": 17,
+            "name": "gang leader",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5b4HE0HJClfYp_EbuWDfDKmvP9WGpcY8uEA&usqp=CAU",
+            "description": "Nani's Gang Leader is a 2019 Indian Telugu-language action comedy film[1] produced by Naveen Yerneni, Y. Ravi Sankar and Mohan Cherukuri under banner of Mythri Movie Makers and directed by Vikram Kumar.[3] The film stars Nani with Kartikeya Gummakonda, Priyanka Arul Mohan, Lakshmi, Saranya Ponvannan, Shriya Reddy, Praanya P. Rao, Priyadarshi Pulikonda, and Vennela Kishore in pivotal roles.[4] The music is composed by Anirudh Ravichander. In this film, 5 women seek the help of a crime novelist to avenge the death of their loved ones.The film was released on 13 September 2019, after being pushed back from previously scheduled release date of 30 August 2019.[5] Gang Leader received positive critical reception.",
+            "link": "https://en.wikipedia.org/wiki/Nani%27s_Gang_Leader"
+        },
+        {
+            "id": 18,
+            "name": "lingaa",
+            "image": "https://i.pinimg.com/originals/f4/9c/fe/f49cfec780b11c75f22d1bf08411f1fc.jpg",
+            "description": "Lingaa is a 2014 Indian Tamil-language action drama film written and directed by K.S. Ravikumar. The film was produced by Rockline Venkatesh under Rockline Entertainment, and distributed worldwide by Eros International and Vendhar Movies. The film's script was written by Pon Kumaran. The film stars Rajinikanth, Anushka Shetty and Sonakshi Sinha in lead roles, while Santhanam, Jagapati Babu and Karunakaran essay supporting roles. The soundtrack was composed by A. R. Rahman.[5] The cinematography and editing was handled by R. Rathnavelu and Samjith Mohammed respectively. The film revolves around Lingaa, a thief who enters a village called Solaiyur to save the dam and temple built by his grandfather.Lingaa marks the reunion of Rajinikanth's collaboration with Ravikumar, after 15 years, since Padayappa (1999). The film's principal photography commenced on 1 May 2014, at Mysore. The majority of the filming took place in Ramoji Film City and Annapurna Studios, and few scenes in Chennai; the film's flashback portions was shot in various locations in Karnataka, and the climax portions were filmed in Linganamakki Dam and Jog Falls in Shimoga, the film's shooting was completed within six months.",
+            "link": "https://en.wikipedia.org/wiki/Lingaa"
+        },
+        {
+            "id": 19,
+            "name": "rangasthalam",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd1qwiQVg5jGr61_0IEx2a3vLZ_NtsDkHNKg&usqp=CAU",
+            "description": "Rangasthalam (transl. 'Theatre') is a 2018 Indian Telugu-language period action-drama film[3] written and directed by Sukumar. Produced by Y. Naveen, Y. Ravi Shankar and C. V. Mohan for the company Mythri Movie Makers, the film stars Ram Charan and Samantha Akkineni with Aadhi Pinisetty, Jagapathi Babu, Prakash Raj, Naresh, and Anasuya Bharadwaj in key supporting roles. Rangasthalam is set in the eponymous fictional village in the 1980s. It narrates the story of two brothers, Chittibabu (Charan) and Kumar Babu (Pinisetty) who oppose the village's local government and the corrupt co-operative society led by its president Phanindra Bhupathi (Babu).Sukumar started working on the film's script after completing Nannaku Prematho (2016), and collaborated with R. Rathnavelu, who served as the director of photography. Devi Sri Prasad composed the film's soundtrack and score; Naveen Nooli edited the film. One of the first few Indian films to be entirely shot using Red Helium 8K cameras, Rangasthalam's principal photography began in April 2017 with the working title RC11 and lasted until March 2018. Majorly filmed in a village set worth ₹50 million erected in Hyderabad, ten percent of the film's footage was shot in and around Rajahmundry.",
+            "link": "https://en.wikipedia.org/wiki/Rangasthalam"
+        },
+        {
+            "id": 20,
+            "name": "anthariksham",
+            "image": "https://m.media-amazon.com/images/M/MV5BYWFmNzU1NmQtNTk4Yy00NDA3LWI2ZjgtODY0NGRkNjMwZTFiXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY1200_CR113,0,630,1200_AL_.jpg",
+            "description": "Antariksham 9000 KMPH is a 2018 Indian Telugu-language science fiction adventure film[1] written and directed by Sankalp Reddy.[3][4] The film stars Varun Tej, Aditi Rao Hydari and Lavanya Tripathi.[5] The first look of the film was released on India's Independence Day, 15 August 2018.[6] The teaser was released on 17 October 2018.[7] The trailer was released on 9 December 2018.[8] The film was released on 21 December 2018. The film will be dubbed in several languages. This film was regarded as the first space-based Telugu science fiction film.[citation needed] The film received mixed reviews from critics, praising the performances of the lead actors Varun Tej, Aditi Rao Hydari, and Lavanya Tripathi.",
+            "link": "https://en.wikipedia.org/wiki/Antariksham_9000_KMPH"
+        },
+        {
+            "id": 21,
+            "name": "karthikeya",
+            "image": "https://upload.wikimedia.org/wikipedia/en/0/0a/Karthikeya_poster.jpg",
+            "description": "Karthikeya is a 2014 Indian Telugu-language mystery thriller film written and directed by Chandoo Mondeti. It was produced by Venkat Srinivas on Magnus Cine Prime Pvt. Ltd. and featured Nikhil Siddharth, Swati Reddy, Tanikella Bharani, Rao Ramesh and Jayaprakash in important roles. Shekar Chandra composed the film's music while Karthik Ghattamaneni and Karthika Srinivas were its cinematographer and editor respectively. The film revolves around a closed Kartikeya temple on the border of Andhra Pradesh and Tamil Nadu and showcases the life of a curious medico Karthik and his nexus with the temple.It was launched on 10 June 2013 at Hyderabad and its Principal photography began on 5 July 2013 which lasted till 21 February 2014. It was shot in Visakhapatnam, Araku and Kumararama temple in Samarlakota.[4][5][6] However, the temple shown in the film is the Udayarpalayam Siva temple near Kumbakonam in Tamil Nadu. Also nearly 50% of the film was shot in and around Tamil Nadu.[7] After few postponements, the film released on 24 October 2014 as a Diwali release to positive reviews from critics, and collected more than ₹200 million (US$2.8 million), amidst a budget of ₹60 million (US$840,000)",
+            "link": "https://en.wikipedia.org/wiki/Karthikeya_(film)"
+        },
+        {
+            "id": 22,
+            "name": "kick2",
+            "image": "https://i0.wp.com/bestoftheyear.in/wp-content/uploads/2018/06/kick-2.jpg?fit=400%2C567&ssl=1",
+            "description": "Kick 2 is a 2015 Indian Telugu-language action comedy film directed by Surender Reddy, written by Vakkantham Vamsi and produced by actor Nandamuri Kalyan Ram under the banner of N.T.R. Arts. The film is a sequel of the 2009 Telugu film Kick starring Ravi Teja reprised his role as the male lead and also playing a double role as a father and son, which was also directed by Surender Reddy. The film also features Rakul Preet Singh, Ravi Kishan, Kabir Duhan Singh, Ashish Vidyarthi, Brahmanandam, Kick Shaam and Rajpal Yadav in the pivotal roles while Nora Fatehi appear in an item song. The film was officially launched on 20 August 2014, and the principal photography began on the same day. The audio soundtrack of the movie was composed by S. Thaman and was released on 9 May 2015. The film was released worldwide on 21 August 2015 and was produced on a budget of ₹30 crore.[1] The film is said to be the costliest film in the career of Ravi Teja.",
+            "link": "https://en.wikipedia.org/wiki/Kick_2"
+        },
+        {
+            "id": 23,
+            "name": "raakshashudu",
+            "image": "https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2019/08/01/Rakshasudu-Movie-Releasing-Tomorrow-poster-.jpg?fit=826%2C1280&quality=90&zoom=1&ssl=1",
+            "description": "Rakshasudu (transl. Demon) is a 2019 Indian Telugu-language psychological thriller film directed by Ramesh Varma.[3] The film features Bellamkonda Sreenivas[4] and Anupama Parameswaran[5] in the lead roles and it is the official remake of the 2018 Tamil film Ratsasan.[6] The music is composed by Ghibran, the film began production in March 2019. Movie was released on 2 August 2019.",
+            "link": "https://en.wikipedia.org/wiki/Rakshasudu_(2019_film)"
+        },
+        {
+            "id": 24,
+            "name": "devadas",
+            "image": "https://www.telugunestam.com/gallery/events/posters/Devadas%20Telugu%20Movie%20Posters/29710269Devadas-Telugu-Movie-Posters-(1).jpg",
+            "description": "Devadas is a 2018 Indian Telugu-language action comedy film produced by C. Ashwini Dutt under Vyjayanthi Movies banner and directed by Sriram Adittya. The film stars Nagarjuna Akkineni, Nani, Aakanksha Singh, Rashmika Mandanna and music composed by Mani Sharma. It was released on 27 September 2018.[3] It is dubbed in Hindi as Don Aur Doctor by Zee Studios in November 2019",
+            "link": "https://en.wikipedia.org/wiki/Devadas_(2018_film)"
+        },
+        {
+            "id": 25,
+            "name": "saakshyam",
+            "image": "https://movie.webindia123.com/movie/2018/regional/april/Saakshyam/Saakshyam.jpg",
+            "description": "Saakshyam (transl. Witness) is a 2018 Indian Telugu-language action film[3] produced by Abhishek Nama on Abhishek Pictures banner and directed by Sriwass. The film stars Bellamkonda Sreenivas and Pooja Hegde in the lead roles with Sarath Kumar, Meena, Jagapathi Babu, Ravi Kishan, and Ashutosh Rana in supporting roles. The music is composed by Harshavardhan Rameshwar with cinematography by Arthur A. Wilson and editing by Kotagiri Venkateswara Rao. The film has collected 13 crores at the worldwide box office on first week release.",
+            "link": "https://en.wikipedia.org/wiki/Saakshyam"
+        },
+        {
+            "id": 26,
+            "name": "mudhra",
+            "image": "https://2.bp.blogspot.com/-BOyYsIEKllE/W_POmAHTcsI/AAAAAAAAWLE/zCXoS6VcJT8pmpA6dmLoFM-KyBMc2TZKwCLcBGAs/w680/mudra-telugu-movie-release-date-star-cast-mt-wiki.jpg",
+            "description": "Nikhil Siddharth (born 1 June 1985) is an Indian actor who works in Telugu films. After playing minor roles in few films, Siddharth rose to fame with Sekhar Kammula's college drama Happy Days (2007). He went on play the lead in films such as Yuvatha (2008), Alasyam Amrutham (2010), Veedu Theda (2011), Swamy Ra Ra (2013), Karthikeya (2014), Surya vs Surya (2015), Ekkadiki Pothavu Chinnavada (2016), Keshava (2017), Kirrak Party (2018) and Arjun Suravaram (2019).",
+            "link": "https://en.wikipedia.org/wiki/Nikhil_Siddharth"
+        },
+        {
+            "id": 27,
+            "name": "bruce lee",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp0rfyIWA1syK3oiH3RQ3HC3XudOzc0BgpEQ&usqp=CAU",
+            "description": "Bruce Lee: The Fighter[1] is a 2015 Indian Telugu-language action comedy film directed by Sreenu Vaitla, starring Ram Charan, Rakul Preet Singh, Kriti Kharbanda and Arun Vijay. The film is produced by DVV Danayya under the banner DVV Entertainments. Kona Venkat and Gopimohan co-wrote the film's script and dialogues while Vaitla also penned the screenplay. S. Thaman composed the film's soundtrack. Manoj Paramahamsa took charge of the film's cinematography.The film received mixed reviews, while the action sequences and screenplay was praised. The film was noted for its focus on dual acting, where it spoofed a scene from Anniyan at one sequence of events.It was remade in Banglaseshi Bengali in 2019 as Beporowa by Raja Chanda.",
+            "link": "https://en.wikipedia.org/wiki/Bruce_Lee:_The_Fighter"
+        },
+        {
+            "id": 28,
+            "name": "oka manasu",
+            "image": "https://i.pinimg.com/originals/a4/f3/9c/a4f39caf1e327b5643fbce498e094257.jpg",
+            "description": "Oka Manasu (English: One Heart) is a 2016 Telugu film written and directed by Rama Raju V Gottimukkala.[1] It features Naga Shourya and Niharika Konidela in the lead roles, which marks Niharika's debut in Telugu cinema.[2][3][4] The film was released worldwide on 24 June 2016",
+            "link": "https://en.wikipedia.org/wiki/Oka_Manasu"
+        },
+        {
+            "id": 29,
+            "name": "yeh jawaani hai deewani",
+            "image": "https://i.pinimg.com/originals/6c/6e/b5/6c6eb51d048ec4d09f74417eb1c670ea.jpg",
+            "description": "Yeh Jawaani Hai Deewani (transl. This youth is crazy) is a 2013 Indian Hindi-language coming-of-age romantic comedy-drama film, directed by Ayan Mukerji, written by Mukerji and Hussain Dalal, and produced by Karan Johar.[3][4] It stars Ranbir Kapoor and Deepika Padukone[5] in their second film together after 2008's Bachna Ae Haseeno. Kalki Koechlin and Aditya Roy Kapur play supporting roles.[6] Madhuri Dixit appears in an item number with Ranbir Kapoor. Initially set for a March 2013 release, the film was released on 31 May 2013.[7] Upon release, it was a box office success. It was a very popular film amongst the youth.[8] Since its release in 2013, the film has gone on to achieve cult status.[9] In the 59th Filmfare Awards, the film received the highest number of nominations (nine) including Best Film, Best Actor for Kapoor, Best Direction for Mukherji, Best Supporting Actor for Kapoor, Best Supporting Actress for Koechlin and soon. Yeh Jawaani Hai Deewani has become one of the highest grossing Indian films of all time. It was the third film to cross ₹3 billion worldwide after 3 Idiots & Ek tha Tiger.[10][11][12] It was also the tenth highest grossing Bollywood film in overseas markets at the time of release",
+            "link": "https://en.wikipedia.org/wiki/Yeh_Jawaani_Hai_Deewani"
+        },
+        {
+            "id": 30,
+            "name": "cocktail",
+            "image": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2012/05/Saif-Ali-Khan-Deepika-Padukone-Diana-Penty-Poster.jpg",
+            "description": "Yeh Jawaani Hai Deewani (transl. This youth is crazy) is a 2013 Indian Hindi-language coming-of-age romantic comedy-drama film, directed by Ayan Mukerji, written by Mukerji and Hussain Dalal, and produced by Karan Johar.[3][4] It stars Ranbir Kapoor and Deepika Padukone[5] in their second film together after 2008's Bachna Ae Haseeno. Kalki Koechlin and Aditya Roy Kapur play supporting roles.[6] Madhuri Dixit appears in an item number with Ranbir Kapoor. ",
+            "link": "https://en.wikipedia.org/wiki/Yeh_Jawaani_Hai_Deewani"
+        },
+        {
+            "id": 31,
+            "name": "finding fanny",
+            "image": "https://i.bollywoodmantra.com/albums/first-look/finding-fanny-3/deepika-padukone__788603.jpg",
+            "description": "Finding Fanny is a 2014 Indian satirical road comedy film directed and written by Homi Adajania and produced by Dinesh Vijan under Maddock Films and presented by Fox Star Studios.[4] Naseeruddin Shah, Dimple Kapadia, Pankaj Kapur, Deepika Padukone and Arjun Kapoor feature in prominent roles. The film is based on a road trip set in Goa and follows the journey of five dysfunctional friends who set out on a road trip in search of Fanny, the love-interest of Naseeruddin Shah.[5] The film had its premiere in India on 1 September 2014 and was released worldwide on 12 September 2014. It was also selected to be screened at 19th Busan International Film Festival in October 2014",
+            "link": "https://en.wikipedia.org/wiki/Finding_Fanny"
+        },
+        {
+            "id": 32,
+            "name": "chennai express",
+            "image": "https://i.pinimg.com/originals/d3/d6/05/d3d6050905f8941272f962b1e4eb2737.jpg",
+            "description": "Chennai Express (/tʃɪˈnaɪ/ (About this soundlisten)) is a 2013 Indian Hindi-language action comedy film[9][4] directed by Rohit Shetty and produced by Ronnie Screwvala, Siddharth Roy Kapur, Gauri Khan and Karim Morani, based on a story by K. Subash, with a screenplay written by Yunus Sajawal and dialogues by Farhad-Sajid. The film stars Shah Rukh Khan as Rahul Mithaiwala, a man who accidentally boards the eponymous train and journeys from Mumbai to Rameswaram, falling in love with the daughter of a local don, played by Deepika Padukone. Nikitin Dheer and Sathyaraj play supporting roles. It was released with subtitles in English, French, Spanish, Arabic, German, Hebrew, Dutch, Turkish and Malay.[10]",
+            "link": "https://en.wikipedia.org/wiki/Chennai_Express"
+        },
+        {
+            "id": 33,
+            "name": "bajirao mastani",
+            "image": "https://i.pinimg.com/originals/f0/1b/74/f01b742727495b5e82fb37dadcd830b6.jpg",
+            "description": "Bajirao Mastani is a 2015 Indian Hindi-language epic historical romance film directed by Sanjay Leela Bhansali, who also composed its soundtrack. Jointly produced by Bhansali and Eros International's Kishore Lulla, the film stars Ranveer Singh, Deepika Padukone and Priyanka Chopra. The supporting cast includes Tanvi Azmi, Vaibhav Tatwawaadi and Milind Soman. Based on the Marathi novel Rau by Nagnath S. Inamdar, Bajirao Mastani narrates the story of the Maratha Peshwa Bajirao I (1700–1740 AD) and his second wife.",
+            "link": "https://en.wikipedia.org/wiki/Bajirao_Mastani"
+        },
+        {
+            "id": 34,
+            "name": "xxx",
+            "image": "https://i.redd.it/445pa2495hby.jpg",
+            "description": "XXX: Return of Xander Cage (released as xXx: Reactivated in some countries) is a 2017 American action film directed by D. J. Caruso and written by F. Scott Frazier. The film stars Vin Diesel, Donnie Yen, Deepika Padukone, Kris Wu, Ruby Rose, Tony Jaa, Nina Dobrev, Toni Collette, Ariadna Gutiérrez, Hermione Corfield, and Samuel L. Jackson. It is the third installment in the XXX film series and a sequel to both XXX (2002) and XXX: State of the Union (2005).   Paramount Pictures, taking over distribution from Columbia Pictures, released the film on January 20, 2017, in 2D, RealD 3D and IMAX 3D. This marks the first film produced by Revolution Studios since The Water Horse: Legend of the Deep a decade earlier, and the first Paramount film to be co-produced by Revolution since 2007’s Next. The film received mixed reviews from critics and grossed over $346 million worldwide against a production budget of $85 million, making it both the franchise's and Revolution Studios' highest-grossing film",
+            "link": "https://en.wikipedia.org/wiki/XXX:_Return_of_Xander_Cage"
+        },
+        {
+            "id": 35,
+            "name": "happy new year",
+            "image": "https://i.mdel.net/i/db/2019/3/1093950/1093950-800w.jpg",
+            "description": "Happy New Year (sometimes abbreviated as HNY) is a 2014 Indian Hindi-language action comedy film[6] directed by Farah Khan and produced by Gauri Khan under the banner of Red Chillies Entertainment. The film features an ensemble cast of Deepika Padukone, Shah Rukh Khan, Abhishek Bachchan, Sonu Sood, Boman Irani, Vivaan Shah and Jackie Shroff. It was distributed worldwide by Yash Raj Films.[7] The film marked the third collaboration of Khan with the director; they previously worked on Main Hoon Na (2004) and Om Shanti Om (2007), the latter of which also featured Padukone as the female lead.",
+            "link": "https://en.wikipedia.org/wiki/Happy_New_Year_(2014_film)"
+        },
+        {
+            "id": 36,
+            "name": "race 2",
+            "image": "https://im.rediff.com/movies/2013/jan/24deepika1.jpg",
+            "description": "Race 2 is a 2013 Indian action thriller film directed by Abbas Burmawalla, Mustan Burmawalla and produced under the Tips Industries banner. It is the sequel to the 2008 film, Race and the second installment of Race film series. The film has an ensemble cast starring Saif Ali Khan, John Abraham, Deepika Padukone, Jacqueline Fernandez, Ameesha Patel and Anil Kapoor in the lead roles while Aditya Pancholi and Rajesh Khattar are featured in supporting roles and Bipasha Basu is featured in a special appearance. Khan, Kapoor and Basu reprised their roles from the previous film.",
+            "link": "https://en.wikipedia.org/wiki/Race_2"
+        },
+        {
+            "id": 37,
+            "name": "ram leela",
+            "image": "https://www.whoa.in/download/ram-leela-movie-poster-with-ranveer-singh-and-deepika-padukone",
+            "description": "Goliyon Ki Raasleela Ram-Leela (transl. A Dance of Bullets: Ram-Leela) is a 2013 Indian Hindi-language tragic romance film written and directed by Sanjay Leela Bhansali, who also composed its original soundtrack. The film was jointly produced by Bhansali and Eros International's Kishore Lulla; it stars Deepika Padukone and Ranveer Singh. The supporting cast includes Supriya Pathak, Richa Chadda, Sharad Kelkar, Gulshan Devaiah, Barkha Bisht Sengupta, and Abhimanyu Singh. Priyanka Chopra made a cameo appearance in the song Ram Chahe Leela. Bhansali conceived Ram-Leela while working on his directional debut Khamoshi: The Musical; an insufficient budget led to the project being postponed. After reviving the project in 2012, Padukone and Singh were cast in the lead roles over many other choices. Principal photography began in Gujarat before moving to Rajasthan. Much of the filming was done on sets, despite previous plans against doing so. The background score was composed by Monty Sharma, while the lyrics were written by Siddharth–Garima.",
+            "link": "https://en.wikipedia.org/wiki/Goliyon_Ki_Raasleela_Ram-Leela"
+        },
+        {
+            "id": 38,
+            "name": "ghosts of girlfriends past",
+            "image": "https://pbs.twimg.com/media/CeZXXHeUUAA8Pv2.jpg",
+            "description": "Ghosts of Girlfriends Past is a 2009 American romantic comedy film directed by Mark Waters. The script was written by Jon Lucas and Scott Moore, based on Charles Dickens' 1843 novella A Christmas Carol. Filming spanned February 19, 2008 to July 2008 in Rhode Island with stars Matthew McConaughey, Jennifer Garner, Lacey Chabert, Emma Stone, and Michael Douglas. The film was released on May 1, 2009.Ghosts of Girlfriends Past features a wedding day and the day before, rather than the familiar Christmas and Christmas Eve from A Christmas Carol. The three ghosts share similar appearances with the original descriptions, and the film shares the traditional plot points from the book.",
+            "link": "https://en.wikipedia.org/wiki/Ghosts_of_Girlfriends_Past"
+        },
+        {
+            "id": 39,
+            "name": "desi boyz",
+            "image": "https://i.ebayimg.com/images/g/BEYAAOSwWEZabC-A/s-l300.jpg",
+            "description": "Desi Boyz is a 2011 Indian romantic comedy film[3] directed by debutant Rohit Dhawan, son of director David Dhawan. The film stars Akshay Kumar, John Abraham, Deepika Padukone and Chitrangada Singh in lead roles[4] while Sanjay Dutt features in an extended cameo.[5] The film was released on 25 November 2011, and received a mixed response from critics though it had a decent run at the box office.",
+            "link": "https://en.wikipedia.org/wiki/Desi_Boyz"
+        },
+        {
+            "id": 40,
+            "name": "om shanti om",
+            "image": "https://i.pinimg.com/736x/34/ae/9f/34ae9f4fa1b7314d9619e3769fae258a.jpg",
+            "description": "Om Shanti Om (transl. Om, Shanti, and Om) is a 2007 Indian Hindi-language romantic fantasy comedy film directed and co-written by Farah Khan with Mayur Puri and Mushtaq Shiekh. It stars Shah Rukh Khan as Om, a junior artist in 1977 who has a crush on a secretly married superstar, played by Deepika Padukone in her Hindi film debut. Her lover, a producer played by Arjun Rampal, kills her in a fire; Om witnesses this and dies from the injuries sustained from trying to rescue her. Reincarnated as a superstar in 2007, he seeks to avenge his love. Om Shanti Om also starred Shreyas Talpade, Kirron Kher, Bindu Desai and Javed Sheikh in supporting roles, and saw cameos from many Bollywood celebrities in several sequences and songs.The film was produced and presented by Shah Rukh's wife Gauri Khan under the banner Red Chillies Entertainment on a budget of ₹50 crore. Farah conceived Om Shanti Om while directing the musical Bombay Dreams (2002), which was based on the Indian film industry. After Shah Rukh rejected the first version of her next film Happy New Year, she was reminded of Om Shanti Om; the film's title derives from a similar titled popular song from the 1980 film Karz. The soundtrack album was composed by Vishal–Shekhar, with lyrics written by Javed Akhtar. The background score was performed by Sandeep Chowta. The album received positive reviews and was also commercially successful, becoming the highest-selling album of the year in India.",
+            "link": "https://en.wikipedia.org/wiki/Om_Shanti_Om"
+        },
+        {
+            "id": 41,
+            "name": "karthik calling karthik",
+            "image": "https://moifightclub.files.wordpress.com/2009/12/kartik-calling-kartik.jpg?w=584",
+            "description": "Karthik Calling Karthik is a 2010 Indian psychological thriller film, written and directed by Vijay Lalwani and produced by Farhan Akhtar and Ritesh Sidhwani under the banner of Excel Entertainment and Reliance Big Pictures. The film stars Farhan Akhtar and Deepika Padukone in lead roles. Ram Kapoor and Shefali Shah play supporting roles in the film. The film's music was composed by the trio of Shankar-Ehsaan-Loy, while the background score was composed by MIDIval Punditz and Karsh Kale.",
+            "link": "https://en.wikipedia.org/wiki/Karthik_Calling_Karthik"
+        },
+        {
+            "id": 42,
+            "name": "padmaavat",
+            "image": "https://m.media-amazon.com/images/M/MV5BOWZjMjkwM2QtZTJiMy00MmI5LWI2YjEtMmY5NjNiYTE2NTBiXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY1200_CR100,0,630,1200_AL_.jpg",
+            "description": "Padmaavat is a 2018 Indian Hindi-language epic period drama film directed by Sanjay Leela Bhansali. Loosely based on the epic poem of the same name by Malik Muhammad Jayasi, it stars Deepika Padukone as Rani Padmavati, a Rajput queen known for her beauty, wife of Maharawal Ratan Singh, played by Shahid Kapoor. Sultan Alauddin Khilji, played by Ranveer Singh, hears of her beauty and attacks her kingdom to claim her. Aditi Rao Hydari, Jim Sarbh, Raza Murad, and Anupriya Goenka featured in supporting roles.With a production budget of ₹215 crore (US$30 million), Padmaavat is one of the most expensive Indian films ever made. Initially scheduled for release on 1 December 2017, Padmaavat faced numerous controversies. Amid violent protests, its release was indefinitely delayed. In December, the Central Board of Film Certification approved the film with few changes, which includes the addition of multiple disclaimers and a change from its original title Padmavati.[14][15] Padmaavat was rescheduled for release on 25 January 2018 in 2D, 3D and IMAX 3D formats, making it the first Indian film to be released in IMAX 3D.",
+            "link": "https://en.wikipedia.org/wiki/Padmaavat"
+        }
+    ]
+}
